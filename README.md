@@ -1,6 +1,6 @@
 Files and their descriptions:
 
-Data_Manipulation:
+Data_Manipulation - Files for preprocessing EEG datasets
 
 Preprocessing.ipynb: basic pre-processing. Reads in data from EEG files and does basic preprocessing of the data and stores it within a .npz file
 Advanced Preprocessing.ipynb: takes EEG data and performs various DSP techniques to the data, such as applying bandpass filters, computing cross-spectral density, ICA to remove artifacts, and stores train/val/test datasets.
